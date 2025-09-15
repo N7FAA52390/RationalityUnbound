@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+type: dataset
+authors:
+- family-names: Guðmunds Fanneyjar
+  given-names: Axel Gauti
+  orcid: https://orcid.org/0009-0001-5927-9136
+version: 1.0.0
+title: "Nexus 04 - Rationality Unbound: Unraveling Humanity's Cognitive Constraints through Technology"
+doi: 10.5281/zenodo.17122095
+date-released: 2025-09-15
+repository-code: "https://github.com/N7FAA52390/RationalityUnbound/TheNexusSeries"
+license: "CC-BY-SA-4.0"
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Guðmunds Fanneyjar
+    given-names: Axel Gauti
+    orcid: https://orcid.org/0009-0001-5927-9136
+  title: "Nexus 04 - Rationality Unbound: Unraveling Humanity's Cognitive Constraints through Technology"
+  date-released: 2025-09-15
+  url: "https://github.com/N7FAA52390/RationalityUnbound/tree/v1.0.0"
+  doi: 10.5281/zenodo.17122095
